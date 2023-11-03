@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>timeline</string>
+      <string>timeline_94166352097973642</string>
+    </entry>
+    <entry>
+      <string>go-developer</string>
+      <string>godeveloper_7520687982762079206</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>
